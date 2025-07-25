@@ -88,5 +88,5 @@ python car_detector.py
  python web_server.py 
 ```
 
-![image-20250725101349118](C:\Users\22314\AppData\Roaming\Typora\typora-user-images\image-20250725101349118.png)
+![image-20250725101349118](py/results/result_20250725100226.jpg)
 
