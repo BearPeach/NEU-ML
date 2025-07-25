@@ -80,7 +80,7 @@ python car_detector.py
 - 显示每个候选框的分类置信度（score）
 - 自动执行NMS，优化最终输出
 
-![image-20250725101641403](C:\Users\22314\AppData\Roaming\Typora\typora-user-images\image-20250725101641403.png)
+![image-20250725101641403](py/detect_result.png)
 
 也可以使用以下命令测试自己采集的数据集：
 
