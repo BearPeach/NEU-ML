@@ -1,0 +1,11 @@
+Pillow == 6.2.0
+matplotlib==3.3.4
+numpy == 1.17.2
+opencv-contrib-python == 4.2.0.32
+opencv-contrib-python-headless == 4.2.0.32
+opencv-python == 4.2.0.34
+opencv-python-headless == 4.2.0.34
+selectivesearch == 0.4
+torch == 1.8.0
+torchvision == 0.9.0
+xmltodict == 0.12.0
