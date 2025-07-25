@@ -90,3 +90,7 @@ python car_detector.py
 
 ![image-20250725101349118](py/results/result_20250725100226.jpg)
 
+更多示例：
+![image-20250725101349118](示例1.png)
+![image-20250725101349118](示例2.png)
+
